@@ -1,0 +1,1 @@
+/opt/SQLiteStudio/sqlitestudio
